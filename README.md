@@ -1,12 +1,12 @@
 # 🎙️ Voice-Based Concept Understanding Analyser
 
-> **An AI-powered application that evaluates a user's conceptual understanding through spoken responses using Speech-to-Text, Semantic Analysis, and Audio Feature Extraction.**
+> **Voice Based Concept Understanding Analyzer is an AI-powered application that evaluates a user's conceptual understanding through spoken responses. It converts speech into text using Speech-to-Text technology and analyzes the meaning using Natural Language Processing (NLP). The system also extracts audio features such as pronunciation, fluency, and confidence. It compares the response with the expected answer to measure understanding. Finally, it provides an accuracy score and personalized feedback to improve learning..**
 
 ---
 
 ## 📌 About the Project
 
-The **Voice-Based Concept Understanding Analyser (VBCUA)** is an AI-powered web application developed to assess a user's understanding of concepts through voice input. The application converts speech into text, analyzes semantic similarity between the spoken response and the expected answer, evaluates speech characteristics, and generates an overall performance score along with personalized feedback.
+The **Voice-Based Concept Understanding Analyzer (VBCUA)** is an AI-driven web application designed to evaluate a user's understanding of concepts using spoken responses. It transforms voice input into text through Speech-to-Text technology, performs semantic analysis to compare the response with the expected answer, analyzes speech features such as fluency and pronunciation, and provides an overall performance score with personalized feedback to support effective learning and self-improvement.
 
 This project is being developed as part of the **APSCHE Google Cloud Generative AI Program**.
 
