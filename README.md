@@ -293,7 +293,7 @@ This project was collaboratively developed by the following team members as part
 | Name | Role | GitHub Profile |
 |------|------|----------------|
 | **Mallavarapu Ramya** | **Team Leader** | [@Mallavarapu Ramya](https://github.com/ramyamallavarapu) |
-| **Swapna Parimi** | Team Member | [@Swapna Parimi](https://github.com/swapnaparimi) |
+| **Swapna Parimi** | Team Member | [@Swapna Parimi](https://share.google/WA9RA5liF65g5ClYP) |
 | **Sharmila Patan** | Team Member | [@Sharmila Patan](https://github.com/sharmilapatan781-pixel) |
 | **Mallavarapu Ramya** | Team Member | [@Mallavarapu Ramya](https://github.com/ramyamallavarapu) |
 
