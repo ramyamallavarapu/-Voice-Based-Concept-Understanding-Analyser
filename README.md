@@ -137,7 +137,7 @@ This project is developed under the **APSCHE Google Cloud Generative AI Program*
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/saichaturya018/Voice-Based-Concept-Understanding-Analyser.git
+   git clone https://github.com/ramyamallavarapu/-Voice-Based-Concept-Understanding-Analyser.git
    cd Voice-Based-Concept-Understanding-Analyser
 ```
 
